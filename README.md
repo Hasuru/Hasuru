@@ -1,12 +1,7 @@
-- Heyo! Hasuru here!
-- Currently a college student under CS degree.
-- Interested in Imperative Languages, Dynamic Programming and algorithms in general.
-- Currently using C++ for most of projects, but always open to learn new languages.
-- Currently i'm quite able in C++, C, Python, Java.
-- Learned a bit of Haskell, Prolog, SQL, HTML, CSS and Javascript.
-- Currently 2 years learning Computer Science, so i could say that i'm still a newbie in this area.
+# Hasuru
 
-<!---
-Hasuru/Hasuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`CS student`**
+
+I'm a Computer Science Student at FCUP (Faculdade de Ciências da Universidade do Porto). I'm currently enrolled in my 3rd year. I'm more confortable with back-end, although i do have some experience with working as full-stack and as front-end developer.
+
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Hasuru=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
