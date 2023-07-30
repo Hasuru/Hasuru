@@ -2,7 +2,10 @@
 
 **`CS student`**
 
-I'm a Computer Science Student at FCUP (Faculdade de Ciências da Universidade do Porto). I'm currently enrolled in my 3rd year. I'm more confortable with back-end, although i do have some experience with working as full-stack and as front-end developer.
+Former student from FCUP, with a bachelors in Computer Science, and thinking in getting a Master's degree in the Graphic Computation field.
+Currently i have experience as a mobile and web developer. I also have some relevant experience with databases, with search and game algorithms
+and data structures.
+Currently searching for a part-time job, on an entry level position, where i can put my skills to use.
 
 ---
 ### Languages and Tools
