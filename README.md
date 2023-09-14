@@ -5,7 +5,7 @@
 Hi, i'm Hugo and a junior programmer. Since my childhood i had a clear view of what i wanted to dedicate my life for, **and that is making games!**
 
 With a **Bachelors degree in Computer Science at FCUP**, i'm currently attending a **Master's degree in Game Development and Graphic Systems at ISEP**.
-Although introverted, i'm quite an energetic and motivated person, who likes to watch those long 2h video on how ligthing in games work.
+Although introverted, i'm quite an energetic and motivated person, who likes to learn as much as he can.
 
 Throughout my stay at FCUP, **i also found an unusual love with Web Development**, focused on Front-end Development. I always considered myself as an *"artsy person"*, immersing myself in games, books, movies and photography, so i quickly found a second home in the world of HTML, CSS and Javascript/Typescript.
 
