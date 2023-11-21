@@ -19,8 +19,6 @@ Nowadays I'm learning the ways of Unity, Blender and Adobe Services, emerging my
 <br />
 
 ---
-
----
 ### Other Tools i am comfortable with
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" />
