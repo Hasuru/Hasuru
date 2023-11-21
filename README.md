@@ -34,4 +34,4 @@ Nowadays I'm learning the ways of Unity, Blender and Adobe Services, emerging my
 ---
 
    ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasuru&hide=haskell&exclude_repo=Pascal0_Compiler_&show_icons=true&theme=radical)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasuru&hide=haskell&show_icons=true&theme=radical)
