@@ -7,7 +7,7 @@ Hi, i'm Hugo and a junior programmer. Since my childhood i had a clear view of w
 With a **Bachelors degree in Computer Science at FCUP**, i'm currently attending a **Master's degree in Game Development and Graphic Systems at ISEP**.
 Although introverted, i'm quite an energetic and motivated person, who likes to learn as much as he can.
 
-I always considered myself as an *"artsy person"*, immersing myself in games, books, movies and photography, so i quickly finding myself at home with game development and art making.
+I always considered myself as an *"artsy person"*, immersing myself in games, books, movies and photography, so i am quickly finding myself at home with game development and art making.
 Nowadays I'm learning the ways of Unity, Blender and Adobe Services, emerging myself into game creation as a whole.
 
 ---
