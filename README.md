@@ -1,6 +1,6 @@
 # Hasuru
 
-**`CS student`**
+**`Game Dev Student`**
 
 Hi, i'm Hugo and a junior programmer. Since my childhood i had a clear view of what i wanted to dedicate my life for, **and that is making games!**
 
