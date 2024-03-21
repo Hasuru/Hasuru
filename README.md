@@ -26,5 +26,4 @@ I'm currently starting my journey in this intricate field through **Vulkan**, in
 
 ---
 
-   ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasuru&hide=haskell&show_icons=true&theme=material-palenight)
    ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=material-palenight)
