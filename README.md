@@ -1,6 +1,6 @@
 # Hasuru
 
-**`Game Dev Student`**
+**`Graphics and Physics Enthusiatic`**
 
 Hi, i'm Hugo and a junior programmer, with a bachelor's in Computer Science and currently taking a Master's on Graphics Systems & Games.
 
