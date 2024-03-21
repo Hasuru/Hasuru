@@ -4,7 +4,7 @@
 
 Hi, i'm Hugo and a junior programmer, with a bachelor's in Computer Science and currently taking a Master's on Graphics Systems & Games.
 
-Even though i am essentially a typical CS student, i also found a fond curiosity on art (specially video-games & music). I remember vividly looking into **Studio Clover's OKAMI cel-shading graphics** and be instantly absorbed into the world of the game and finding myself questioning **"How can someone do that? I want to do that"**, and to this day OKAMI is one of the major reasons of me **taking a liking to graphic programming, which takes the best of both worlds**.
+Even though i am essentially a typical CS student, i also found a fond curiosity on art (specially video-games & music). I remember vividly looking into **Studio Clover's OKAMI cel-shading graphics** and being instantly absorbed into the world of the game and finding myself questioning **"How can someone do that? I want to do that"**, and to this day OKAMI is one of the major inspirations for **taking a liking to graphic programming, which takes the best of both worlds**.
 
 I'm currently starting my journey in this intricate field through **Vulkan**, in hopes of one day achieve the "Graphic/Physics Programmer" title.
 
