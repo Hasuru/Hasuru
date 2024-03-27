@@ -6,7 +6,7 @@ Hi, i'm Hugo and a junior programmer, with a bachelor's in Computer Science and 
 
 Even though i am essentially a typical CS student, i also found a fond curiosity on art (specially video-games & music). I remember vividly looking into **Studio Clover's OKAMI cel-shading graphics** and being instantly absorbed into the world of the game and finding myself questioning **"How can someone do that? I want to do that"**, and to this day OKAMI is one of the major inspirations for **taking a liking to graphic programming, which takes the best of both worlds**.
 
-I'm currently starting my journey in this intricate field through **Vulkan**, in hopes of one day achieve the "Graphic/Physics Programmer" title.
+I'm currently starting my journey in this intricate field through starter projects like Ray Tracing, in hopes of one day achieve the "Graphic/Physics Programmer" title.
 
 ---
 ### Tools revolving my day to day
