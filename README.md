@@ -26,4 +26,4 @@ I'm currently starting my journey in this intricate field through starter projec
 
 ---
 
-   ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=material-palenight)
+   ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=gruvbox)
