@@ -24,4 +24,4 @@ At the end of the day, i'm just a dude who like to code things that do cool stuf
 
 ---
 
-   ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=catppuccin_latte)
+   ![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasuru&show_icons=true&theme=graywhite)
