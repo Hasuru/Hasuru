@@ -2,13 +2,9 @@
 
 **`Graphics and Physics Enthusiatic`**
 
-Hi, i'm Hugo and a junior programmer, with a bachelor's in Computer Science and currently taking a Master's on Computer Engineering, Graphics Systems & Games.
-
 I love to code and i also love art, from music to books, movies and drawings.
 Studio Clover's game, Okami opened my eyes to the ideia that graphics can be a unique form of art.
-Because that, i one day wish to persue graphics programming as a career. But for now i focus my time on learning as much as i can.
-
-At the end of the day, i'm just a dude who like to code things that do cool stuff.
+Because that, i one day wish to persue graphics programming as a career. But for now i focus my time on learning as much as i can
 
 ---
 ### I mainly work with these
